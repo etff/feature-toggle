@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: app-test
+
+io:
+  getunleash:
+    app-name:
+    instance-id:
+    environment:
+    api-url:
+    api-token:
